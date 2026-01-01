@@ -1,8 +1,6 @@
 # Portuguese-Bank-Marketing-Analysis
 End-to-end analysis of a Portuguese bank marketing campaign using SQL, Python, and Power BI.
 
-# Portuguese Bank Marketing Campaign Analysis
-
 ## Business Objective
 The objective of this project is to analyze a Portuguese bank’s marketing campaign data to identify key factors influencing customer subscription to term deposits and improve campaign effectiveness.
 
